@@ -5,4 +5,4 @@ Replication code for each set of MRIOT (EORA / INFORM Climate Change) and Climat
 
 Zip files should be unzipped in main directory.
 
-MRIOT data is to heavy to be here and can be sent by the authors.
+MRIOT data is too heavy to be here and can be sent by the authors.
